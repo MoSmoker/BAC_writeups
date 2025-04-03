@@ -3,3 +3,5 @@
 - https://medium.com/@sharp488/critical-account-takeover-mfa-auth-bypass-due-to-cookie-misconfiguration-3ca7d1672f9d => wtf?
 - https://medium.com/h7w/full-account-takeover-via-password-reset-link-manipulation-840fb9402967 => ATO in reset password
 - https://medium.com/@tusharaj98355/1-4m-pii-data-leakage-idor-aee596aef4d9 => IDOR in upload function
+- https://medium.com/@a13h1/bypassing-business-logic-via-race-condition-a-500-bounty-bug-273396b17ec4 => race condition
+- https://imwaiting18.medium.com/i-sent-1-000-000-requests-to-a-server-dcb6b41d5d7f => 2fa bypass + rate limit bypass
