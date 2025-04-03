@@ -5,3 +5,6 @@
 - https://medium.com/@tusharaj98355/1-4m-pii-data-leakage-idor-aee596aef4d9 => IDOR in upload function
 - https://medium.com/@a13h1/bypassing-business-logic-via-race-condition-a-500-bounty-bug-273396b17ec4 => race condition
 - https://imwaiting18.medium.com/i-sent-1-000-000-requests-to-a-server-dcb6b41d5d7f => 2fa bypass + rate limit bypass
+- https://infosecwriteups.com/bac-idor-how-my-father-credit-card-help-me-to-find-this-access-control-issue-7ff7c1ae463e => IDOR swapping payment method
+- https://prateeksrivastavaa.medium.com/zomatoooo-idor-in-saved-payments-f8c014879741 => IDOR saved payments
+- https://medium.com/@pranshux0x/account-takeover-on-8-years-old-public-program-c0c0a30cfdd2 => verification bypass + ATO
