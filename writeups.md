@@ -8,3 +8,13 @@
 - https://infosecwriteups.com/bac-idor-how-my-father-credit-card-help-me-to-find-this-access-control-issue-7ff7c1ae463e => IDOR swapping payment method
 - https://prateeksrivastavaa.medium.com/zomatoooo-idor-in-saved-payments-f8c014879741 => IDOR saved payments
 - https://medium.com/@pranshux0x/account-takeover-on-8-years-old-public-program-c0c0a30cfdd2 => verification bypass + ATO
+- https://r0b0ts.medium.com/race-condition-about-the-user-version-and-ignored-c98fec642d1b => race condition
+- https://medium.com/h7w/how-i-earned-469-bounty-bypassing-plan-restriction-58f6d3120b6e => bypassing plan restriction
+- https://rikeshbaniya.medium.com/authorization-bypass-due-to-cache-misconfiguration-fde8b2332d2d => cache misconf
+- https://medium.com/@debu8er/1600-bounty-on-a-main-domain-8c30557c0f64 => mixed
+- https://infosecwriteups.com/bypassing-account-suspension-using-anonymous-posting-facebook-bug-bounty-b204433c98d1 => suspension bypass in fb
+- https://medium.com/@0x_xnum/idor-leads-to-account-takeover-of-all-users-ato-27af312c8481 => IDOR validates by timestamp?
+- https://sayedv2.medium.com/how-i-discovered-authentication-bypass-that-blocks-users-from-accessing-the-website-93140fa180ac => deletes role then user cant access app
+- https://freedium.cfd/https://blog.bugbountyhunter.xyz/idor-on-hackerone-embedded-submission-form-9e59c6f044b3 => hackerone IDOR
+- https://medium.com/@keizobugbounty/using-e-notation-to-bypass-access-control-restrictions-to-access-arbitrary-user-pii-discussions-1fa014b544d4 => genius IDOR
+- https://medium.com/@keizobugbounty/race-condition-authentication-bypass-leads-to-full-account-takeover-6b5c9bc0a54d => race condition leads to ATO

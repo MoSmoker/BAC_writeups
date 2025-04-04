@@ -1,0 +1,2 @@
+- https://medium.com/h7w/how-i-earned-469-bounty-bypassing-plan-restriction-58f6d3120b6e => race condition article
+- https://portswigger.net/research/smashing-the-state-machine => race condition article
