@@ -18,3 +18,16 @@
 - https://freedium.cfd/https://blog.bugbountyhunter.xyz/idor-on-hackerone-embedded-submission-form-9e59c6f044b3 => hackerone IDOR
 - https://medium.com/@keizobugbounty/using-e-notation-to-bypass-access-control-restrictions-to-access-arbitrary-user-pii-discussions-1fa014b544d4 => genius IDOR
 - https://medium.com/@keizobugbounty/race-condition-authentication-bypass-leads-to-full-account-takeover-6b5c9bc0a54d => race condition leads to ATO
+- https://freedium.cfd/https://infosecwriteups.com/500-mfa-bypass-by-race-condition-176421462902 => bypasses api token generate limit by race condition
+- https://rashahacks.com/how-i-got-multiple-privilege-escalations/ => priv escalation + PII leakage
+- https://cristivlad.medium.com/account-takeover-it-looked-secure-at-first-f14a31cb7f5c => IDOR to ATO but devs are drunk
+- https://medium.com/@bxrowski0x/how-to-find-idors-like-a-pro-158cf23baf23 => 5 types of IDOR \*
+- https://medium.com/@bxrowski0x/bypassing-an-idor-a-couple-of-times-4d67555a1545 => IDOR + PII leakage \*
+- https://infosecwriteups.com/race-conditions-with-pipelining-9034358a2781 => race condition bypass by pipeline
+- https://freedium.cfd/https://infosecwriteups.com/how-i-uncover-an-idor-led-to-access-private-cv-access-3ff5be987896 => IDOR
+- https://freedium.cfd/https://mchklt.medium.com/authentication-bypass-leads-to-pii-01d34fc7f547 => Auth bypass
+- https://medium.com/@dishantsingh989/how-interesting-2fa-bypass-through-browser-feature-lead-me-to-critical-vulnerability-18f9c72a8f8d => 2FA bypass
+- https://medium.com/@hossam_hamada/zero-click-account-takeover-via-auth-bypass-c3130fb5a5e0 => auth bypass + ATO
+- https://medium.com/@mrro0o0tt/found-5-bac-in-one-single-app-within-2-hours-07a2307db2ca => BAC
+- https://yazeedeliwah.medium.com/how-i-find-idor-lead-to-account-takeover-de762cc1e101 => IDOR TO ATO
+- https://medium.com/@GERRR4Y/exploiting-mass-assignment-to-ato-ab0c1aadc2de => mass assign
