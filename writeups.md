@@ -31,3 +31,10 @@
 - https://medium.com/@mrro0o0tt/found-5-bac-in-one-single-app-within-2-hours-07a2307db2ca => BAC
 - https://yazeedeliwah.medium.com/how-i-find-idor-lead-to-account-takeover-de762cc1e101 => IDOR TO ATO
 - https://medium.com/@GERRR4Y/exploiting-mass-assignment-to-ato-ab0c1aadc2de => mass assign
+- https://jxycybersec.medium.com/critical-idor-vulnerability-in-order-tracking-system-exposes-customer-data-a9dbae34d329 => IDOR PII
+- https://medium.com/@Bug_Slay3r/bug-bounty-how-a-race-condition-led-to-application-level-dos-76458ae57e9d => Racing DOS
+- https://medium.com/@dharineeshj2/easy-account-takeover-using-otp-bypass-4de2079fb9b1 => response manipulation 2FA bypass
+- https://medium.com/@ajay.kumar.695632/invite-me-once-i-own-your-account-hindi-english-b27cb72fe64a => invite link issues
+- https://medium.com/@Cr40/zeroclick-account-takeover-a-four-bug-chain-exploit-115ce0f6fc23 (\*) => ATO
+- https://infosecwriteups.com/otp-bypass-bug-in-public-bug-bounty-program-5554eafc18ab => response manipulation
+- https://cristivlad.medium.com/account-of-the-ceo-takeover-via-password-reset-7e55c0175425 => password reset i ssues
