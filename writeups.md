@@ -16,7 +16,7 @@
 - https://medium.com/@0x_xnum/idor-leads-to-account-takeover-of-all-users-ato-27af312c8481 => IDOR validates by timestamp?
 - https://sayedv2.medium.com/how-i-discovered-authentication-bypass-that-blocks-users-from-accessing-the-website-93140fa180ac => deletes role then user cant access app
 - https://freedium.cfd/https://blog.bugbountyhunter.xyz/idor-on-hackerone-embedded-submission-form-9e59c6f044b3 => hackerone IDOR
-- https://medium.com/@keizobugbounty/using-e-notation-to-bypass-access-control-restrictions-to-access-arbitrary-user-pii-discussions-1fa014b544d4 => genius IDOR ==HERE==
+- https://medium.com/@keizobugbounty/using-e-notation-to-bypass-access-control-restrictions-to-access-arbitrary-user-pii-discussions-1fa014b544d4 => genius IDOR =HERE=
 - https://medium.com/@keizobugbounty/race-condition-authentication-bypass-leads-to-full-account-takeover-6b5c9bc0a54d => race condition leads to ATO
 - https://freedium.cfd/https://infosecwriteups.com/500-mfa-bypass-by-race-condition-176421462902 => bypasses api token generate limit by race condition
 - https://rashahacks.com/how-i-got-multiple-privilege-escalations/ => priv escalation + PII leakage
